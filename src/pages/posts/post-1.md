@@ -1,6 +1,7 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "Моя первая запись в блоге"
-pubDate: 2022-07-01
+pubDate: Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 description: "Это первый пост моего нового Astro блога."
 author: "Ученик Astro"
 image:
@@ -8,13 +9,6 @@ image:
   alt: "Полный логотип Astro."
 tags: ["astro", "блогинг", "обучение на публике"]
 ---
-
-# Моя первая запись в блоге
-
-Опубликовано: 01.07.2022
-
-Добро пожаловать в мой _новый блог_ об изучении астро! Здесь я буду рассказывать о своем учебном пути, пока я создаю новый сайт.
-
 ## Чего я добился
 
 1. **Установка Astro**: Сначала я создал новый проект Astro и настроил свои учетные записи в Интернете.
