@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Моя первая запись в блоге"
-pubDate: Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+pubDate: 2022-07-08
 description: "Это первый пост моего нового Astro блога."
 author: "Ученик Astro"
 image:
